@@ -1,2 +1,2 @@
-## Authors fix typo
+## Authors
 - [Gidrian](https://github.com/Gidrian)
